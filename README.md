@@ -1,6 +1,6 @@
-Merhaba, ben Fikriye!
+Merhaba, ben Fikriye Tetik
 
- Yapay zekâ, Python ve Doğal Dil İşleme (NLP) alanlarında projeler geliştiriyorum.  
+ Yapay zeka, Python ve Doğal Dil İşleme (NLP) alanlarında projeler geliştiriyorum.  
  Aynı zamanda web geliştirme ile ilgileniyorumve fikirlerimi backend hem de frontend tarafında hayata geçiriyorum. 
 
  İlgi Alanlarım:
@@ -15,5 +15,7 @@ Merhaba, ben Fikriye!
 
  Kütüphaneler ve Araçlar:
  TensorFlow,Scikit-learn,NLTK,Pandas,Numpy,Matplotlib
+
+ LinkedIn: https://www.linkedin.com/in/fikriye-tetik-83b2741b4/
 
 
